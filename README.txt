@@ -1,6 +1,6 @@
-Dimension by HTML5 UP
-html5up.net | @ajlkn
-Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+# BIOMA360
+
+O BIOMA360 consiste em um app de visualização de biomas em realidade virtual para maior auxílio ao entendimento e compreensão sobre biomas.
 
 
 This is Dimension, a fun little one-pager with modal-ized (is that a word?) "pages"
